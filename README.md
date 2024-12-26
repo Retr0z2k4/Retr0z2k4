@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨- Creating bugs since 2022<br>📚 - I'm currently learning Python, React and typescript.<br>🎯 - Goals: looking <br>🎲 - Fun fact: my first project was a Game on Unity for my elementary school<br>📚 - Learning more about typescript and react at school and learning python by myself.</p>
+<p align="left">✨- Creating bugs since 2022<br>📚 - I'm currently learning Python, React and typescript.<br>🎯 - Goals: currently looking for a job and focusing on learning more about the programing industry <br>🎲 - Fun fact: my first project was a Game on Unity for my elementary school<br>📚 - Learning more about typescript and react at school and learning python by myself.</p>
 
 ###
 

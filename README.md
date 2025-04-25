@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Victor and I'm a dev from Brazil</p>
+<p align="left">My name is Victor! Welcome to my Github page!</p>
 
 ###
 

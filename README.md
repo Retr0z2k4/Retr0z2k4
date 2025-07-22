@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨- Creating bugs since 2022<br>📚 - I'm currently a supprort assistance at a one of the top 5 calibration company from Brazil. Focusing on Learning Python, React and typescript. And intent to improve my front-end skills and became a fullstack dev in future.<br>🎯 - Goals: currently learning more about the programing industry and improving my coding skills. <br>🎲 - Fun fact: my first project was a Game on Unity for my elementary school<br>📚 - Learning more about typescript, react and python by myself.</p>
+<p align="left">✨- Creating bugs since 2022<br>📚 - I'm currently a lab technician at a one of the top 5 metrology company from Brazil. Focusing on Learning Python, React and typescript. And intent to improve my front-end skills and became a fullstack dev in future.<br>🎯 - Goals: currently learning more about the programing industry and improving my coding skills. <br>🎲 - Fun fact: my first project was a Game on Unity for my elementary school<br>📚 - Learning more about typescript, react and python by myself.</p>
 
 ###
 
